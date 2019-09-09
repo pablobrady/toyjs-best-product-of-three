@@ -1,21 +1,21 @@
 {
-  "name": "toy-mocha-template-cl",
+  "name": "toyjs-best-product-of-three",
   "version": "1.0.0",
-  "description": "Toy Problems with Mocha/Chai tests",
+  "description": "Determines the best product of 3 integers",
   "main": "toy.js",
   "scripts": {
     "test": " ./node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pablobrady/toy-mocha-template.git"
+    "url": "git+https://github.com/pablobrady/toyjs-best-product-of-three.git"
   },
   "author": "Paul Brady",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pablobrady/toy-mochatemplate/issues"
+    "url": "https://github.com/pablobrady/toyjs-best-product-of-three/issues"
   },
-  "homepage": "https://github.com/pablobrady/toy-mocha-template#readme",
+  "homepage": "https://github.com/pablobrady/toyjs-best-product-of-three#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.0"
